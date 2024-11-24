@@ -34,6 +34,6 @@ Vous pouvez accéder à l'application via le lien suivant :
 👉 **[Regata - Gestion des Régates](https://cyan-dragonfly-987245.hostingersite.com/)**
 
 ---
-**Auteur** : [Preiswerk]  
+**Auteur** : Ugo Preiswerk  
 **Date de réalisation** : 24 avril - 14 mai 2024  
 **Licence** : MIT
